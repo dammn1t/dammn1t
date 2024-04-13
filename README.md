@@ -19,4 +19,4 @@
 # 📲 Contact 
 ## Discord : 3komornik
 ## Ig: igxh.ec
-![ig]()
+![ig](https://github.com/dammn1t/dammn1t/blob/main/ig.gif?raw=true)
